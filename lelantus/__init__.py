@@ -61,3 +61,6 @@ def embed(html: str, image: str, out: str = None, minify: bool = True):
             f.write(appended)
 
     return appended
+
+
+__all__ = ["embed"]

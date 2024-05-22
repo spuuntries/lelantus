@@ -1,0 +1,2 @@
+colorama==0.4.6
+minify_html==0.15.0
